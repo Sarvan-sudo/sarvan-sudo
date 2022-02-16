@@ -1,5 +1,10 @@
+[![MasterHead](https://wallpapercave.com/wp/wp2234591.jpg)](https://github.com/sarvan-sude)
+
 <h1 align="center">Hi 👋, I'm Sarvan</h1>
 <h3 align="center">A passionate DevOps developer & C Programmer from India</h3>
+
+<img align="right" alt="Coding" width="400" src="https://robodk.com/blog/wp-content/uploads/2018/05/Programming-Language-PNG-Download-Image.png">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarvan-sudo&label=Profile%20views&color=0e75b6&style=flat" alt="sarvan-sudo" /> </p>
 
